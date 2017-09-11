@@ -1,6 +1,6 @@
 # Magento2 startup theme
 Basic set of files to enable a new Magento2 theme in admin. This guide refers to Magento 2.1 version.
-
+# [Freelance Magento Developer](https://www.phpfreelanceprogrammer.com/magento-programmer.html)
 
 # Installation Instructions
 
